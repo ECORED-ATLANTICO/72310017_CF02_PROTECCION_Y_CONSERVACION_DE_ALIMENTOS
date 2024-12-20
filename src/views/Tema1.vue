@@ -20,10 +20,10 @@
 
     .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
       .div.mb-5(data-aos="fade-right")
-        h3.bgr_3.position-relative Definición y Conceptos Básicos 
+        h3.bgr_3.position-relative Definición y conceptos básicos de las ETA 
           img.pst(src='@/assets/curso/temas/titulos/img_1.svg', alt='') 
 
-    p.mb-3 Las Enfermedades Transmitidas por Alimentos (ETA) son un problema de salud pública que surge cuando se consumen alimentos contaminados. Estas enfermedades pueden provocar infecciones o intoxicaciones en el organismo, generalmente debido a la presencia de microorganismos como bacterias, virus y parásitos, o por sustancias químicas peligrosas. Su conocimiento y prevención resultan esenciales para garantizar la seguridad alimentaria y proteger la salud de las personas.
+    p.mb-3 Las Enfermedades Transmitidas por Alimentos (ETA) son infecciones o intoxicaciones resultantes del consumo de alimentos contaminados, generalmente por microorganismos patógenos como bacterias, virus, y parásitos, o sustancias químicas nocivas.
 
     .tarjeta.fondo_1_2.p-4.slyder_1.bg-01.mb-5
       SlyderA(tipo="b")
@@ -72,6 +72,8 @@
             .col-lg-6
               figure
                 img(src='@/assets/curso/temas/tema1/img_6.png', alt='Imagen decorativa')
+
+    h3 Definición y conceptos básicos
 
     p.mb-3 Por lo anterior, es imprescindible un control eficaz de la higiene, para evitar las consecuencias perjudiciales de las enfermedades y los daños causados por los alimentos y por su deterioro en la salud y la economía.
     p.mb-3 Las enfermedades trasmitidas por los alimentos (ETA) constituyen el problema de salud pública más extendido en el mundo, por lo que es necesario mantener su vigilancia epidemiológica para aplicar medidas oportunas que permitan su control y prevención, y asegurarse de que los alimentos sean inocuos y aptos para el consumo humano.

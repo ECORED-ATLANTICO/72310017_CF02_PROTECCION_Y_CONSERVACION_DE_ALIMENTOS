@@ -205,7 +205,7 @@ export default {
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de la línea de producción',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
@@ -217,17 +217,26 @@ export default {
         {
           nombre: 'Ángela Rocío Báez León',
           cargo: 'Experta temática ',
-          centro: 'N/A',
+          centro:
+            'Centro de Desarrollo Agropecuario y Agroindustrial - Regional Boyacá',
         },
         {
           nombre: 'Yuri Alexandra Báez Roldán',
           cargo: 'Asesora pedagógica',
-          centro: 'N/A',
+          centro:
+            'Centro de Desarrollo Agropecuario y Agroindustrial - Regional Boyacá',
+        },
+        {
+          nombre: 'Diana Corredor Ruíz',
+          cargo: 'Experta temática',
+          centro:
+            'Centro de Formación de Talento Humano en Salud – Regional Distrito Capital',
         },
         {
           nombre: 'Janet Lucía Villalba Triana',
           cargo: 'Asesora pedagógica',
-          centro: 'N/A',
+          centro:
+            'Centro de Desarrollo Agropecuario y Agroindustrial - Regional Boyacá',
         },
         {
           nombre: 'Jairo Valencia Ebratt',
