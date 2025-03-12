@@ -126,7 +126,7 @@
         .tarjeta.bg-01.p-4
           .row.ordenar_tarjeta.justify-content-center.align-items-center.my-lg-4.p-3
             .col-xl-6.mb-4.mb-xl-0
-              h3.mb-3 Fortalemeciento de la cultura alimentaria
+              h3.mb-3 Fortalecimiento de la cultura alimentaria
 
               p La oportunidad radica en el fortalecimiento de los hábitos alimentarios tradicionales y locales, así como en el desarrollo de pequeñas industrias y de estructuras cooperativas de comercialización, y fuente de empleo. El desafío es proporcionar a las autoridades gubernamentales y municipales los medios necesarios para garantizar la inocuidad y la calidad de dichos alimentos y estimular al mismo tiempo el desarrollo de este sector.
 
