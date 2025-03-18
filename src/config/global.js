@@ -1,8 +1,7 @@
 export default {
   global: {
-    componenteFormativo:
-      'Seguridad alimentaria, enfermedades y prevención de riesgos',
-    descripcionCurso:
+    Name: 'Seguridad alimentaria, enfermedades y prevención de riesgos',
+    Description:
       'Este componente explora las enfermedades transmitidas por alimentos (ETA), su clasificación, causas y cómo prevenirlas. Se profundiza en los principales agentes causales, como bacterias, virus, hongos y parásitos, y se analiza cómo estos afectan la seguridad alimentaria. Además, se introduce el sistema HACCP, una herramienta fundamental para la gestión de riesgos en la producción de alimentos y se destaca la importancia de las normas del <em>Codex Alimentarius</em> para garantizar la inocuidad alimentaria a nivel nacional e internacional.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
